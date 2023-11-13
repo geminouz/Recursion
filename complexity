@@ -1,4 +1,0 @@
-#Divide and conquer recursion
-T(n) = D(n) + aT(n/b) + C(n)
-  T(1)=1
-  
